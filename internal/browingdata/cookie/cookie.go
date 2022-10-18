@@ -10,7 +10,6 @@ import (
 	"hack-browser-data/internal/log"
 	"hack-browser-data/internal/utils/typeutil"
 
-	"github.com/mattn/go-sqlite3"
 )
 
 type ChromiumCookie []cookie
